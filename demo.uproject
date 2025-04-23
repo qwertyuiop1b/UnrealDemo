@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00047083-08DD-8188-9BBC-36047ADCCA23}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "demo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
